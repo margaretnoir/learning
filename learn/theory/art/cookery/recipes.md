@@ -26,3 +26,4 @@ TODO
 - [Al dente](https://aldente.substack.com/)
 - [Instant Search 2 Million Recipes](https://recipe-search.typesense.org/)
 - [RecipeRadar](https://www.reciperadar.com/)
+- [Yumii Recipe](https://yumiirecipe.com/)
